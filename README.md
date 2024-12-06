@@ -1,4 +1,5 @@
 # 📰 About Me  
+
 👋 **Hi, I'm Phung Van Dung!**  
 - 🤝 **Looking for help with:** Flutter  
 - 💬 **Ask me about:** Android  
@@ -30,6 +31,7 @@
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+
 ### 🌐 Front-End Development  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +49,6 @@
 ### ☁️ Backend as a Service (BaaS)  
 
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-
 
 ### 🔧 Other Tools  
 
