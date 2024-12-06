@@ -2,12 +2,16 @@
 
 👋 **Hi, I'm Phung Van Dung!**  
 - 🤝 **Looking for help with:** Flutter  
-- 💬 **Ask me about:** Android  
+- 💬 **Ask me about:** Android
+
+---
 
 # 🌐 Connect with Me  
 
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://www.youtube.com/@pvdnocode3623)
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:phungvandung03062003@gmail.com)
+
+---
 
 # 🎓 Skills  
 
@@ -58,5 +62,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=pdungz&theme=dark&hide_border=false&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pdungz&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pdungz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-
---- 
