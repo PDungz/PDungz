@@ -4,18 +4,12 @@
 - 🤝 **Looking for help with:** Flutter  
 - 💬 **Ask me about:** Android  
 
----
-
 # 🌐 Connect with Me  
 
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://www.youtube.com/@pvdnocode3623)
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:phungvandung03062003@gmail.com)
 
----
-
 # 🎓 Skills  
-
----
 
 ### 🖥️ Programming Languages  
 
